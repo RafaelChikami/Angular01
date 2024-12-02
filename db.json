@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "tarefa": "Estudar C#",
+            "categoria": "Escola",
+            "concluido": false
+        },
+
+        {
+            "id": 2,
+            "tarefa": "Estudar Angular",
+            "categoria": "Escola",
+            "concluido": true
+        }
+    ]
+}
